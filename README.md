@@ -1,27 +1,19 @@
-# MSP-MVS
+# MSP-MVS++
 
-Zhenlong Yuan, Cong Liu, Fei Shen, Zhaoxin Li, Jingguo luo, Tianlu Mao and Zhaoqi Wang, [**MSP-MVS: Multi-Granularity Segmentation Prior Guided Multi-View Stereo**](https://arxiv.org/pdf/2407.19323), AAAI 2025.
-![](images/SED-MVS.png)
+Yuan, Z., Zhang, D., Li, Z., Qian, C., Chen, J., Chen, Y., Chen K., Mao T., Li Z, Jiang H., Wang, Z., [**DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo**](https://arxiv.org/abs/2506.13215).
+![](images/DVP-MVS++.png)
 
 ## About
-MSP-MVS aggregates multi-granularity SAM model **Semantic-SAM** with multi-view stereo(**MVS**) algorithm to address patch deformation instability of PatchMatch-based MVS.
-
-Our paper was accepted by **AAAI2025**!
+DVP-MVS++ is an innovative approach that synergizes both depth-normal-edge aligned and harmonized cross-view priors for robust and visibility-aware patch deformation.
 
 If you find this project useful for your research, please cite:  
 
 ```
-@InProceedings{MSP-MVS,
-  title = {{{MSP-MVS}}: {{Multi-Granularity Segmentation Prior Guided Multi-View Stereo}}},
-  shorttitle = {{{MSP-MVS}}},
-  author = {Yuan, Zhenlong and Liu, Cong and Shen, Fei and Li, Zhaoxin and Luo, Jinguo and Mao, Tianlu and Wang, Zhaoqi},
-  year = {2024},
-  month = dec,
-  number = {arXiv:2407.19323},
-  eprint = {2407.19323},
-  primaryclass = {cs},
-  publisher = {arXiv},
-  archiveprefix = {arXiv}
+@article{yuan2025dvp,
+  title={DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo},
+  author={Yuan, Zhenlong and Zhang, Dapeng and Li, Zehao and Qian, Chengxuan and Chen, Jianing and Chen, Yinda and Chen, Kehua and Mao, Tianlu and Li, Zhaoxin and Jiang, Hao and others},
+  journal={arXiv preprint},
+  year={2025}
 }
 ```
 ## Code

@@ -1,7 +1,7 @@
 # MSP-MVS
 
 Zhenlong Yuan, Cong Liu, Fei Shen, Zhaoxin Li, Jingguo luo, Tianlu Mao and Zhaoqi Wang, [**MSP-MVS: Multi-Granularity Segmentation Prior Guided Multi-View Stereo**](https://arxiv.org/pdf/2407.19323), AAAI 2025.
-![](images/MSP-MVS-pipeline.png)
+![](images/SED-MVS.png)
 
 ## About
 MSP-MVS aggregates multi-granularity SAM model **Semantic-SAM** with multi-view stereo(**MVS**) algorithm to address patch deformation instability of PatchMatch-based MVS.

@@ -1,4 +1,4 @@
-# MSP-MVS++
+# DVP-MVS++
 
 Yuan, Z., Zhang, D., Li, Z., Qian, C., Chen, J., Chen, Y., Chen K., Mao T., Li Z, Jiang H., Wang, Z., [**DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo**](https://arxiv.org/abs/2506.13215).
 ![](images/DVP-MVS++.png)

@@ -16,8 +16,6 @@ If you find this project useful for your research, please cite:
   year={2025}
 }
 ```
-## Code
-Code is coming soon.
 
 ## Acknowledgements
 
